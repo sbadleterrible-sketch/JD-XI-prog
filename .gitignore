@@ -1,0 +1,4 @@
+*.fwsc binary
+*.elf binary
+*.map text
+build/
